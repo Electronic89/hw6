@@ -2,8 +2,8 @@ import java.util.Random;
 
 public class Main {
     private static final int TREE_COUNT = 20;
-    private static final int MIN_VALUE = -20;
-    private static final int MAX_VALUE = 20;
+    private static final int MIN_VALUE = -25;
+    private static final int MAX_VALUE = 25;
     private static final int TREE_HEIGHT = 4;
 
     public static void main(String[] args) {
